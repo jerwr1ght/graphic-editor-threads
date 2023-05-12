@@ -1,2 +1,2 @@
-# graphic-editor-threads
+# Graphic Editor Threads
 Testing multithreading with SFML
